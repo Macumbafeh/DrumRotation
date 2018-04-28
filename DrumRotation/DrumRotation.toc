@@ -1,0 +1,13 @@
+## Interface: 20400
+## Title: DrumRotation
+## Author: Pyralis
+## Version: 2.4
+## Notes: Automatically manages drumming rotations as much as possible.
+## SavedVariables: DrumRotationSave
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+DrumRotation.lua
+GUI\AlertBar.lua
+GUI\AlertIcon.lua
+GUI\Options.lua

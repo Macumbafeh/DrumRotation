@@ -1,0 +1,14 @@
+2.4 (3/3/14):
+   * Switched to using item IDs so client language doesn't matter.
+
+2.3 (3/1/14):
+   * Changed timing to round up instead of down, since before you could be told to use drums about half a second before you could.
+
+2.2 (2/20/14):
+   * Fixed a bug where a drummer in another group could cancel you informing the next drummer that it's their turn.
+
+2.1 (2/18/14):
+   * Added an alert option to be whispered by the previous drummer.
+   * Added "/drum info raid" to show information about every drummer in the raid ("/drum info" still only shows the party).
+   * Fixed an error tracking drum times in other raid subgroups.
+   * Fixed a case where someone stops using the addon causing their last known settings and which drum items they have to persist forever.
